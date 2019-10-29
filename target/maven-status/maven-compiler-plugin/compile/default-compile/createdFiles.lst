@@ -1,2 +1,4 @@
 domain/User.class
+domain/CaptchaResponse.class
 com/applova/io/Controller/UserController.class
+domain/Response.class

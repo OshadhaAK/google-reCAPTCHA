@@ -1,3 +1,3 @@
 ${message.name}<br/>
 ${message.description}<br/>
-Capture:${message.captchaResponse}
+Capture:${message.response}

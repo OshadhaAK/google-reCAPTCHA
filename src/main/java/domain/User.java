@@ -3,6 +3,15 @@ package domain;
 public class User {
     public String name;
     public String description;
+    public String response;
+
+    public String getResponse() {
+        return response;
+    }
+
+    public void setResponse(String response) {
+        this.response = response;
+    }
 
     public User() {
     }
